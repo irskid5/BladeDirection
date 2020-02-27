@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="HudTheme">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="AppTheme.Light" parent="HudTheme.Light">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+</resources>
